@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* تدرج لوني فخم يتناسب مع التصميم الذهبي */
+    background: radial-gradient(circle at center, #1a1a1a 0%, #0d0d0d 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
