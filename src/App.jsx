@@ -2,7 +2,6 @@ import "./App.css";
 import TodoList from "./components/to-do list";
 
 function App() {
-
   return (
     <div>
       <TodoList />
