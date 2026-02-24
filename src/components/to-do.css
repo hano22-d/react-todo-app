@@ -60,7 +60,7 @@
 
 /* ===== Main Container ===== */
 .todo-app {
-  max-width: 500px;
+  max-width: 300px;
   margin: 60px auto;
   padding: 40px;
   background: linear-gradient(145deg, var(--bg-secondary), var(--bg-primary));
@@ -343,7 +343,7 @@
 .checkboxDiv {
   display: block;
   position: relative;
-  right: 90px;
+  right: 70px;
   padding-left: 20px;
   padding-bottom: 20px;
   cursor: pointer;
