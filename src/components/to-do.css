@@ -60,7 +60,7 @@
 
 /* ===== Main Container ===== */
 .todo-app {
-  max-width: 300px;
+  max-width: 80%;
   margin: 60px auto;
   padding: 40px;
   background: linear-gradient(145deg, var(--bg-secondary), var(--bg-primary));
